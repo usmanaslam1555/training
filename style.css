@@ -1,0 +1,25 @@
+p {
+	font-size: 20px;
+	color: red;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+img {
+	width: 200px;
+	height: 400px;
+	object-fit: 
+}
+
+#books {
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+body{
+	background: green;
+}
